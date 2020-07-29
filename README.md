@@ -6,5 +6,6 @@ Mathematical Methods
 Numerical Techniques
 Discrete Mathematics
 
-Computing - Data Structures
-            Algorithms
+Computing - Data Stuctures,  Algorithms
+Tronix - Digital Electronics
+            
