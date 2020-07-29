@@ -8,5 +8,5 @@ Discrete Mathematics
 
 Computing - Data Stuctures,  Algorithms
 Tronix - Digital Electronics
-Physics - PHY-102
+Physics - PHY-102, Fibre Optics
             
