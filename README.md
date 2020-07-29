@@ -4,3 +4,4 @@ Algebra
 Probability
 Mathematical Methods
 Numerical Techniques
+Discrete Mathematics
