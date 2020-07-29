@@ -7,3 +7,4 @@ Numerical Techniques
 Discrete Mathematics
 
 Computing - Data Structures
+            Algorithms
