@@ -7,5 +7,5 @@ Numerical Techniques
 Discrete Mathematics
 
 Computing - Data Stuctures,  Algorithms
-Tronix - Digital Electronics
+Tronix - Digital Electronics, Semiconductors
             
